@@ -48,7 +48,7 @@ The following key steps are outlined:
 
 **5. Dependencies**
 
-If you're using any external libraries (e.g., scikit-learn, pandas, matplotlib), list them in a `requirements.txt` file to enable easy environment setup.
+If you're using any external libraries (e.g. scikit-learn, pandas, matplotlib), list them in a `requirements.txt` file to enable easy environment setup.
 
 **6. Running the Analysis**
 
